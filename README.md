@@ -345,5 +345,4 @@ SQL → Python → Tableau/Power BI → Cloud (AWS/Azure/Snowflake) → Speciali
 ```
 
 ---
-
 *Built with PostgreSQL · Visualized with Python (Matplotlib + Seaborn) · Hosted on GitHub Pages*
