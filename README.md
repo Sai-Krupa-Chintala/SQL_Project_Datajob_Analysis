@@ -96,7 +96,7 @@ Standard git workflow: `init → add → commit → push`. The repo is public so
 
 **💡 Insight: The salary ceiling is $650K, but the realistic top tier is $185K–$255K**
 
-The top 10 remote Data Analyst roles in 2023 showed a dramatic salary spread — from $185K at Patterned Learning AI all the way to $650K at Mantys. Mantys and Meta are clear outliers. Strip those two out and the realistic top-tier range sits at $185K–$255K. Every single role is fully remote and full-time, confirming that the highest-paying opportunities have fully embraced remote work. Companies like AT&T, Pinterest, SmartAsset, and UCLA Health make up the rest — spanning tech, finance, and healthcare.
+The top 10 remote Data Analyst roles in 2023 showed a dramatic salary spread — from $185K at Patterned Learning AI all the way to $650K at Mantys. Mantys and Meta are clear outliers. Strip those two out and the realistic top-tier range sits at $185K–$255K. Every single role is fully remote and full-time, confirming that the highest-paying opportunities have fully embraced remote work. Companies like AT&T, Pinterest, SmartAsset, and UCLA Health make up the rest — spanning tech, finance, and healthcare
 
 ```sql
 SELECT
