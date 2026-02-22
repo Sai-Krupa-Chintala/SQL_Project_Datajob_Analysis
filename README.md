@@ -41,7 +41,7 @@ The project demonstrates practical SQL fluency across filtering, aggregation, wi
 As someone actively transitioning into a data analyst role, I wanted evidence-based answers rather than generic career advice. Instead of asking "what should I learn?", I let the data answer it directly.
 
 ### The Data
-The dataset was sourced from **Luke Barousse's SQL Course** — a comprehensive collection of real 2023 job postings scraped from job boards across the globe. It includes:
+The dataset was sourced from trusted online source a comprehensive collection of real 2023 job postings scraped from job boards across the globe. It includes:
 
 - `job_postings_fact` — core job postings table (title, salary, location, schedule, WFH status)
 - `company_dim` — company names linked by `company_id`
@@ -343,8 +343,6 @@ For anyone entering the data analyst field in 2024, the evidence-based learning 
 ```
 SQL → Python → Tableau/Power BI → Cloud (AWS/Azure/Snowflake) → Specialization
 ```
-
-This project was built as part of **Luke Barousse's SQL for Data Analytics course** and represents my first complete end-to-end SQL portfolio project.
 
 ---
 
