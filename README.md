@@ -125,7 +125,7 @@ ORDER BY
 LIMIT 10;
 ```
 
-![Top Paying Jobs](assets\q1_top_paying_jobs.png)
+![Top Paying Jobs](assets/q1_top_paying_jobs.png)
 
 ---
 
@@ -165,7 +165,7 @@ LEFT JOIN skills_dim AS s_skill
 ORDER BY tpj.salary DESC, s_skill.skills;
 ```
 
-![Skills for Top Jobs](assets\q2_skills_top_jobs.png)
+![Skills for Top Jobs](assets/q2_skills_top_jobs.png)
 
 ---
 
@@ -205,7 +205,7 @@ ORDER BY
 LIMIT 5;
 ```
 
-![In-Demand Skills](assets\q3_in_demand_skills.png)
+![In-Demand Skills](assets/q3_in_demand_skills.png)
 
 ---
 
@@ -247,7 +247,7 @@ ORDER BY
     sd.avg_salary DESC;
 ```
 
-![Top Paying Skills](assets\q4_top_paying_skills.png)
+![Top Paying Skills](assets/q4_top_paying_skills.png)
 
 ---
 
@@ -301,7 +301,7 @@ ORDER BY
     hps.avg_salary DESC;
 ```
 
-![Optimal Skills](assets\q5_optimal_skills.png)
+![Optimal Skills](assets/q5_optimal_skills.png)
 
 ---
 
