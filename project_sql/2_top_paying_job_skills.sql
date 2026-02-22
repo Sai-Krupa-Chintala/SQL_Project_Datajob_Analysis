@@ -7,34 +7,6 @@
  helping job seekers understand which skills to develop that align with top salaries
 */
 
-
-
-
-SELECT
-    j_posting.job_id,
-    job_title_short AS job_title,
-    job_location,
-    job_schedule_type,
-    salary_year_avg AS salary,
-    job_posted_date,
-    s_skill.skills AS skill_name
-FROM
-    job_postings_fact AS j_posting
-LEFT JOIN
-    skills_job_dim AS j_skill
-    ON j_posting.job_id = j_skill.job_id
-LEFT JOIN
-    skills_dim AS s_skill
-    ON j_skill.skill_id = s_skill.skill_id
-WHERE   
-    job_work_from_home = TRUE
-    AND  job_title_short LIKE  '%Data Analyst%'
-    AND salary_year_avg IS NOT NULL
-ORDER BY
-    salary DESC 
-LIMIT 10;
-    
-
 WITH top_paying_jobs AS (
     SELECT
         job_id,
