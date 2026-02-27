@@ -3,7 +3,7 @@
 
 > *A data-driven exploration of the 2023 job market — uncovering where the highest salaries live, which skills employers actually want, and what an aspiring data analyst should learn first to maximize both opportunity and earning potential.*
 
-🔗 **[View Live Dashboard →](https://Sai-Krupa-Chintala.github.io/sql-job-market-analysis-portfolio)**
+🔗 **[View Live Dashboard →](https://sai-krupa-chintala.github.io/SQL_Job_Market_Analysis_Portfolio/)**
 
 ---
 
